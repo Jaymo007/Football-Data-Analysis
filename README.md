@@ -13,13 +13,15 @@ The project is aimed at answering questions such as:
 
 •	Which manager won the world cup as a player and as a manager?
 
+•	Which manager played the most games?
+
 ## Data
-The data for this project was gathered and curated from Wikipedia and FourFourTwo.com
+The data for this project was gathered and curated from Wikipedia and FourFourTwo.com. After that, it was inputted into excel and then imported into MySQL database from which it was accessed from jupyter notebook for analysis.
 
 ## Project Steps
-1.	Load Data - Connect jupyter notebook to MySQL database to access the data
-2.	Data Exploration – Getting a sense of the structure of the data and calculating summary statistics
-3.	Trophies won by managers – Uncovering the categories of trophies won by managers and records created
+1.	Load Data - Connect jupyter notebook to MySQL database to access the data.
+2.	Data Exploration – Getting a sense of the structure of the data and calculating summary statistics.
+3.	Trophies won by managers – Identifying the trophies won by managers and records created.
 
 
 
